@@ -9,3 +9,6 @@ Following this: https://www.freecodecamp.org/learn/
   * Completed Applied Visual Design
   * Completed Applied Accessibility
   * Completed Responsive web design principles
+  
+### Day 2: November 8 2020
+  * Completed CSS Flexbox
