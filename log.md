@@ -12,3 +12,7 @@ Following this: https://www.freecodecamp.org/learn/
   
 ### Day 2: November 8 2020
   * Completed CSS Flexbox
+
+November 9,10 #Did Nothing
+
+
